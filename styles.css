@@ -1,0 +1,79 @@
+#header {
+    position: absolute;
+    height: 100vh;
+    width: 30vw;
+    background-image: url(waffle-house.jpg);
+    background-position: center;
+    
+
+}
+#logo {
+    margin-top: 10vh;
+    width: 30vw;
+    height: 20vh;
+    background-color: rgba(255, 247, 237, 0.83);
+    box-shadow: 5px 5px 45px gray;
+}
+#cat{
+    height: 20vh;
+    width: 20vh;
+    position: ;
+    
+}
+body {
+    margin: 0px;
+}
+#else {
+    background-color: rgb(192, 176, 218);
+    height: 100vh;
+    width: 70vw;
+    margin-left: 30vw;
+}
+#remark {
+    width: 70vw;
+    height: 25vh;
+    background-color: rgb(192, 176, 218);
+    padding-top: 5vh;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    margin-left: 5vw;
+    font-size: 10vh;
+    outline: 3px black;
+    
+}
+#fourming {
+    
+    background-color: rgb(255, 247, 237);
+    width: 70vw;
+    height: 35vh;
+    box-shadow: 5px 5px 45px gray;
+    
+}
+.row1 {
+    margin-top: 5vh;
+    position: absolute;
+    font-size: larger;
+}
+.row2{
+    margin-top: 15vh;
+    position: absolute;
+    font-size: larger;
+}
+.row3{
+    position: absolute;
+    margin-top: 26vh;
+    font-size: larger;
+}
+.column1{
+    margin-left: 10vw;
+}
+.column2{
+    margin-left: 30vw;
+}
+#submit{
+    margin-top: 38vh;
+    margin-left: 10vw;
+    font-size: larger;
+}
